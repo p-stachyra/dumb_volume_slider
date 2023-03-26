@@ -1,2 +1,2 @@
-# dumb_volume_slider
+# Dumb Volume Slider
 To be further developed.
